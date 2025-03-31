@@ -10,6 +10,7 @@ graph LR
     D --> B;
     B ---->|No| E[Success!];
 ```
+## Sequence Diagram
 
 ```mermaid
 sequenceDiagram
