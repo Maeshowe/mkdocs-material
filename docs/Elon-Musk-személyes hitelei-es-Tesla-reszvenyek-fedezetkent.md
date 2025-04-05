@@ -2,7 +2,7 @@
 
 !!! note "Veszélyben van-e a TESLA (TSLA) árfolyama?"
 
-Elon Musk dollármilliárdos hiteleit Tesla-részvényei fedezik, de mi történik, ha a Tesla árfolyama zuhanni kezd? Musk vagyonának harmada már zálogba van adva, így egy drasztikus árfolyamesés bármikor margin call-t és tömeges részvényeladást válthat ki. Az elmúlt években Musk többször is a penge élén táncolt, legutóbb épp a Twitter felvásárlásakor vállalt óriási hitelkockázatot. Ha egyszer megindulna a kényszerlikvidálás, az lavinaszerű árfolyamzuhanást indíthatna el. Vajon meddig feszítheti még Musk ezt a veszélyes játékot?
+    Elon Musk dollármilliárdos hiteleit Tesla-részvényei fedezik, de mi történik, ha a Tesla árfolyama zuhanni kezd? Musk vagyonának harmada már zálogba van adva, így egy drasztikus árfolyamesés bármikor margin call-t és tömeges részvényeladást válthat ki. Az elmúlt években Musk többször is a penge élén táncolt, legutóbb épp a Twitter felvásárlásakor vállalt óriási hitelkockázatot. Ha egyszer megindulna a kényszerlikvidálás, az lavinaszerű árfolyamzuhanást indíthatna el. Vajon meddig feszítheti még Musk ezt a veszélyes játékot?
 
 ## **Musk személyes kölcsönei és fedezeteik áttekintése**
 
